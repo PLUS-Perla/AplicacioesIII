@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_img">385dp</dimen>
+    <dimen name="size">15pt</dimen>
+    <dimen name="dimens_text">10pt</dimen>
+    <dimen name="data">15pt</dimen>
+</resources>

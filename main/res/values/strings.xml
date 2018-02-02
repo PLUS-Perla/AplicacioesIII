@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Unidad1</string>
+    <string name="num_7">7</string>
+    <string name="num_8">8</string>
+    <string name="num_9">9</string>
+    <string name="x">X</string>
+    <string name="num_4">4</string>
+    <string name="num_5">5</string>
+    <string name="num_6">6</string>
+    <string name="_men">-</string>
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_0">0</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_x">x</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="men">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="plus">+</string>
+    <string name="div">/</string>
+    <string name="_0">0</string>
+    <string name="dot">.</string>
+    <string name="equals">=</string>
+    <string name="type_name">Type your name?</string>
+    <string name="Type_name">Type Name</string>
+    <string name="Type_age">Type Age</string>
+    <string name="type_phone">Type phone</string>
+    <string name="submit">Submit</string>
+</resources>
